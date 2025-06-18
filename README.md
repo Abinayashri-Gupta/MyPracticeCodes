@@ -103,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0234-palindrome-linked-list) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
