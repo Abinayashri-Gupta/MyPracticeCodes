@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0349-intersection-of-two-arrays) |
+| [0739-daily-temperatures](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0739-daily-temperatures) |
 ## Database
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/1908-recyclable-and-low-fat-products) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
