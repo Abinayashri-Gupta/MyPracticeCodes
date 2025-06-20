@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0349-intersection-of-two-arrays) |
+| [0460-lfu-cache](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0460-lfu-cache) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0234-palindrome-linked-list) |
+| [0460-lfu-cache](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0460-lfu-cache) |
 | [0860-design-circular-queue](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0460-lfu-cache) |
 | [0860-design-circular-queue](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0860-design-circular-queue) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
