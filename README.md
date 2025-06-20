@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0118-pascals-triangle) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -240,5 +242,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
