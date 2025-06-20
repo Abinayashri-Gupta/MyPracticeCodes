@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0739-daily-temperatures](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0739-daily-temperatures) |
+| [0860-design-circular-queue](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0860-design-circular-queue) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0234-palindrome-linked-list) |
+| [0860-design-circular-queue](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -137,9 +139,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
