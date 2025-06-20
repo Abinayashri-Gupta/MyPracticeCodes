@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0455-assign-cookies) |
 | [0739-daily-temperatures](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0739-daily-temperatures) |
 | [0860-design-circular-queue](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0860-design-circular-queue) |
 ## Sorting
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -232,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0744-network-delay-time) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
