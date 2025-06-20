@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0739-daily-temperatures](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0739-daily-temperatures) |
 | [0860-design-circular-queue](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0860-design-circular-queue) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0322-coin-change) |
 ## Memoization
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0322-coin-change) |
 | [0744-network-delay-time](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0744-network-delay-time) |
 ## Binary Tree
 |  |
