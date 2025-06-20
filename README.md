@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0127-word-ladder](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0151-reverse-words-in-a-string) |
+| [1250-longest-common-subsequence](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/1250-longest-common-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0322-coin-change) |
+| [1250-longest-common-subsequence](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
