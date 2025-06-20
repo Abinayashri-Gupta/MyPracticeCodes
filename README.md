@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0169-majority-element) |
+| [0239-sliding-window-maximum](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0739-daily-temperatures](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0739-daily-temperatures) |
@@ -151,9 +152,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0239-sliding-window-maximum) |
 | [0860-design-circular-queue](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0860-design-circular-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0460-lfu-cache) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
