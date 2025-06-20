@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0118-pascals-triangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0349-intersection-of-two-arrays) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0232-implement-queue-using-stacks) |
