@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0239-sliding-window-maximum) |
+| [0744-network-delay-time](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0744-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0744-network-delay-time](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0744-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0226-invert-binary-tree) |
+| [0744-network-delay-time](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0744-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -218,4 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0200-number-of-islands) |
+## Graph
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Abinayashri-Gupta/MyPracticeCodes/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
